@@ -1,2 +1,4 @@
-# histoview
+# Histoview
 An open-source image analysis and annotation tool for digital pathology
+
+##### HistoView© is a robust, user-friendly application developed for pathology image analysis and computer-aided annotation. It provides a variety of automated and quantitative image analysis routines specifically geared for very large digital histopathology images with a particular focus on biomarker quantification, color normalization, nuclear segmentation, tissue partitioning and mitosis detection. These algorithms were largely developed within the Center for Computational Imaging and Personalized Diagnostics (CCIPD) at Case Western Reserve University in Cleveland, OH. 
